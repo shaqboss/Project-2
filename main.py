@@ -55,4 +55,10 @@ input()
 print("cool") 
 print("I am a AI System i have no feelings Boohoo")
 input()
-print("ok")
+print("ok") 
+Pen=Turtle
+Screen=Screen
+Pen.color("Black")
+Pen.pensize(100)
+Pen.write("Max 1.2")
+print("")
